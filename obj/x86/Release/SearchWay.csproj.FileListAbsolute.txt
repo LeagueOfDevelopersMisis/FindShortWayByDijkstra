@@ -1,0 +1,16 @@
+C:\Users\Александр\Google Диск\Курсовые\5ый семестр\SearchWay\SearchWay\bin\Release\SearchWay.exe.manifest
+C:\Users\Александр\Google Диск\Курсовые\5ый семестр\SearchWay\SearchWay\bin\Release\SearchWay.application
+C:\Users\Александр\Google Диск\Курсовые\5ый семестр\SearchWay\SearchWay\bin\Release\SearchWay.exe
+C:\Users\Александр\Google Диск\Курсовые\5ый семестр\SearchWay\SearchWay\bin\Release\SearchWay.pdb
+C:\Users\Александр\Google Диск\Курсовые\5ый семестр\SearchWay\SearchWay\obj\x86\Release\SearchWay.Form1.resources
+C:\Users\Александр\Google Диск\Курсовые\5ый семестр\SearchWay\SearchWay\obj\x86\Release\SearchWay.Properties.Resources.resources
+C:\Users\Александр\Google Диск\Курсовые\5ый семестр\SearchWay\SearchWay\obj\x86\Release\SearchWay.Settings.resources
+C:\Users\Александр\Google Диск\Курсовые\5ый семестр\SearchWay\SearchWay\obj\x86\Release\SearchWay.SettingsEdgeForm.resources
+C:\Users\Александр\Google Диск\Курсовые\5ый семестр\SearchWay\SearchWay\obj\x86\Release\SearchWay.SettingsVertexForm.resources
+C:\Users\Александр\Google Диск\Курсовые\5ый семестр\SearchWay\SearchWay\obj\x86\Release\SearchWay.csproj.GenerateResource.Cache
+C:\Users\Александр\Google Диск\Курсовые\5ый семестр\SearchWay\SearchWay\obj\x86\Release\SearchWay.exe.manifest
+C:\Users\Александр\Google Диск\Курсовые\5ый семестр\SearchWay\SearchWay\obj\x86\Release\SearchWay.application
+C:\Users\Александр\Google Диск\Курсовые\5ый семестр\SearchWay\SearchWay\obj\x86\Release\SearchWay.exe
+C:\Users\Александр\Google Диск\Курсовые\5ый семестр\SearchWay\SearchWay\obj\x86\Release\SearchWay.pdb
+C:\Users\Александр\Google Диск\Курсовые\5ый семестр\SearchWay\SearchWay\bin\Release\SearchWay.exe.config
+C:\Users\Александр\Google Диск\Курсовые\5ый семестр\SearchWay\SearchWay\obj\x86\Release\SearchWay.csprojResolveAssemblyReference.cache

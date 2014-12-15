@@ -61,7 +61,10 @@ namespace SearchWay
 
         public static bool operator !=(Edge a, Edge b)
         {
-            return !(operator ==(a, b));
+            return !(
+                a.id_first == b.id_first && a.id_second == b.id_second 
+                || a.id_first == b.id_second && a.id_second == b.id_first
+            );
         }
     }
 }

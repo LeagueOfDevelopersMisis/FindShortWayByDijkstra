@@ -100,7 +100,7 @@
 		</vertex>
 		<vertex>
 			<id>15</id>
-			<color>116,92,47</color>
+      <color>116,92,47</color>
 			<name>Белорусская</name>
 			<point>566,388</point>
 			<direction>left</direction>
@@ -1271,85 +1271,85 @@
 		<edge>
 			<first>2</first>
 			<second>3</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>12,129,24</color>
 		</edge>
 		<edge>
 			<first>3</first>
 			<second>4</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>12,129,24</color>
 		</edge>
 		<edge>
 			<first>4</first>
 			<second>5</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>12,129,24</color>
 		</edge>
 		<edge>
 			<first>5</first>
 			<second>6</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>12,129,24</color>
 		</edge>
 		<edge>
 			<first>7</first>
 			<second>6</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>12,129,24</color>
 		</edge>
 		<edge>
 			<first>7</first>
 			<second>8</second>
-			<weight>4</weight>
+			<weight>19</weight>
 			<color>12,129,24</color>
 		</edge>
 		<edge>
 			<first>8</first>
 			<second>9</second>
-			<weight>5</weight>
+			<weight>19</weight>
 			<color>12,129,24</color>
 		</edge>
 		<edge>
 			<first>9</first>
 			<second>10</second>
-			<weight>5</weight>
+			<weight>19</weight>
 			<color>12,129,24</color>
 		</edge>
 		<edge>
 			<first>10</first>
 			<second>11</second>
-			<weight>5</weight>
+			<weight>19</weight>
 			<color>12,129,24</color>
 		</edge>
 		<edge>
 			<first>11</first>
 			<second>12</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>12,129,24</color>
 		</edge>
 		<edge>
 			<first>12</first>
 			<second>13</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>12,129,24</color>
 		</edge>
 		<edge>
 			<first>13</first>
 			<second>14</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>12,129,24</color>
 		</edge>
 		<edge>
 			<first>14</first>
 			<second>15</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>12,129,24</color>
 		</edge>
 		<edge>
 			<first>15</first>
 			<second>16</second>
-			<weight>5</weight>
+			<weight>19</weight>
 			<color>12,129,24</color>
 		</edge>
 		<edge>
@@ -1385,73 +1385,73 @@
 		<edge>
 			<first>22</first>
 			<second>23</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>116,92,47</color>
 		</edge>
 		<edge>
 			<first>23</first>
 			<second>24</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>116,92,47</color>
 		</edge>
 		<edge>
 			<first>24</first>
 			<second>25</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>116,92,47</color>
 		</edge>
 		<edge>
 			<first>25</first>
 			<second>26</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>116,92,47</color>
 		</edge>
 		<edge>
 			<first>26</first>
 			<second>15</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>116,92,47</color>
 		</edge>
 		<edge>
 			<first>15</first>
 			<second>27</second>
-			<weight>5</weight>
+			<weight>19</weight>
 			<color>116,92,47</color>
 		</edge>
 		<edge>
 			<first>27</first>
 			<second>28</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>116,92,47</color>
 		</edge>
 		<edge>
 			<first>28</first>
 			<second>29</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>116,92,47</color>
 		</edge>
 		<edge>
 			<first>29</first>
 			<second>30</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>116,92,47</color>
 		</edge>
 		<edge>
 			<first>30</first>
 			<second>31</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>116,92,47</color>
 		</edge>
 		<edge>
 			<first>31</first>
 			<second>10</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>116,92,47</color>
 		</edge>
 		<edge>
 			<first>10</first>
 			<second>22</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>116,92,47</color>
 		</edge>
 		<edge>
@@ -1475,127 +1475,127 @@
 		<edge>
 			<first>35</first>
 			<second>36</second>
-			<weight>5</weight>
+			<weight>19</weight>
 			<color>133,212,243</color>
 		</edge>
 		<edge>
 			<first>36</first>
 			<second>37</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>133,212,243</color>
 		</edge>
 		<edge>
 			<first>37</first>
 			<second>38</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>133,212,243</color>
 		</edge>
 		<edge>
 			<first>39</first>
 			<second>40</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>40</first>
 			<second>41</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>41</first>
 			<second>42</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>42</first>
 			<second>43</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>43</first>
 			<second>44</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>44</first>
 			<second>45</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>45</first>
 			<second>46</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>45</first>
 			<second>47</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>47</first>
 			<second>48</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>48</first>
 			<second>49</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>49</first>
 			<second>50</second>
-			<weight>4</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>50</first>
 			<second>51</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>51</first>
 			<second>31</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>51</first>
 			<second>52</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>52</first>
 			<second>53</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>53</first>
 			<second>54</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>54</first>
 			<second>55</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>55</first>
 			<second>57</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
@@ -1649,115 +1649,115 @@
 		<edge>
 			<first>46</first>
 			<second>56</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>80,145,187</color>
 		</edge>
 		<edge>
 			<first>56</first>
 			<second>7</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>80,145,187</color>
 		</edge>
 		<edge>
 			<first>57</first>
 			<second>26</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>39</first>
 			<second>36</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>66</first>
 			<second>2</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>177,211,50</color>
 		</edge>
 		<edge>
 			<first>66</first>
 			<second>67</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>177,211,50</color>
 		</edge>
 		<edge>
 			<first>67</first>
 			<second>68</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>177,211,50</color>
 		</edge>
 		<edge>
 			<first>68</first>
 			<second>69</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>177,211,50</color>
 		</edge>
 		<edge>
 			<first>69</first>
 			<second>70</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>177,211,50</color>
 		</edge>
 		<edge>
 			<first>70</first>
 			<second>71</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>177,211,50</color>
 		</edge>
 		<edge>
 			<first>71</first>
 			<second>72</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>177,211,50</color>
 		</edge>
 		<edge>
 			<first>72</first>
 			<second>73</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>177,211,50</color>
 		</edge>
 		<edge>
 			<first>73</first>
 			<second>74</second>
-			<weight>4</weight>
+			<weight>19</weight>
 			<color>177,211,50</color>
 		</edge>
 		<edge>
 			<first>74</first>
 			<second>75</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>177,211,50</color>
 		</edge>
 		<edge>
 			<first>75</first>
 			<second>76</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>177,211,50</color>
 		</edge>
 		<edge>
 			<first>76</first>
 			<second>77</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>177,211,50</color>
 		</edge>
 		<edge>
 			<first>77</first>
 			<second>78</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>177,211,50</color>
 		</edge>
 		<edge>
 			<first>78</first>
 			<second>79</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>177,211,50</color>
 		</edge>
 		<edge>
 			<first>79</first>
 			<second>80</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>177,211,50</color>
 		</edge>
 		<edge>
@@ -1775,109 +1775,109 @@
 		<edge>
 			<first>78</first>
 			<second>23</second>
-			<weight>6</weight>
+			<weight>19</weight>
 			<color>177,211,50</color>
 		</edge>
 		<edge>
 			<first>80</first>
 			<second>55</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>177,211,50</color>
 		</edge>
 		<edge>
 			<first>83</first>
 			<second>84</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>251,170,51</color>
 		</edge>
 		<edge>
 			<first>84</first>
 			<second>85</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>251,170,51</color>
 		</edge>
 		<edge>
 			<first>85</first>
 			<second>86</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>251,170,51</color>
 		</edge>
 		<edge>
 			<first>86</first>
 			<second>87</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>251,170,51</color>
 		</edge>
 		<edge>
 			<first>87</first>
 			<second>88</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>251,170,51</color>
 		</edge>
 		<edge>
 			<first>88</first>
 			<second>89</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>251,170,51</color>
 		</edge>
 		<edge>
 			<first>89</first>
 			<second>90</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>251,170,51</color>
 		</edge>
 		<edge>
 			<first>90</first>
 			<second>91</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>251,170,51</color>
 		</edge>
 		<edge>
 			<first>91</first>
 			<second>92</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>251,170,51</color>
 		</edge>
 		<edge>
 			<first>92</first>
 			<second>93</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>251,170,51</color>
 		</edge>
 		<edge>
 			<first>93</first>
 			<second>30</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>251,170,51</color>
 		</edge>
 		<edge>
 			<first>30</first>
 			<second>94</second>
-			<weight>6</weight>
+			<weight>19</weight>
 			<color>251,170,51</color>
 		</edge>
 		<edge>
 			<first>94</first>
 			<second>95</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>251,170,51</color>
 		</edge>
 		<edge>
 			<first>95</first>
 			<second>96</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>251,170,51</color>
 		</edge>
 		<edge>
 			<first>96</first>
 			<second>104</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>251,170,51</color>
 		</edge>
 		<edge>
 			<first>104</first>
 			<second>25</second>
-			<weight>4</weight>
+			<weight>19</weight>
 			<color>251,170,51</color>
 		</edge>
 		<edge>
@@ -1925,13 +1925,13 @@
 		<edge>
 			<first>96</first>
 			<second>79</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>251,170,51</color>
 		</edge>
 		<edge>
 			<first>94</first>
 			<second>11</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>251,170,51</color>
 		</edge>
 		<edge>
@@ -1979,61 +1979,61 @@
 		<edge>
 			<first>112</first>
 			<second>76</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>182,29,142</color>
 		</edge>
 		<edge>
 			<first>112</first>
 			<second>22</second>
-			<weight>4</weight>
+			<weight>19</weight>
 			<color>182,29,142</color>
 		</edge>
 		<edge>
 			<first>22</first>
 			<second>95</second>
-			<weight>5</weight>
+			<weight>19</weight>
 			<color>182,29,142</color>
 		</edge>
 		<edge>
 			<first>95</first>
 			<second>113</second>
-			<weight>4</weight>
+			<weight>19</weight>
 			<color>182,29,142</color>
 		</edge>
 		<edge>
 			<first>113</first>
 			<second>114</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>182,29,142</color>
 		</edge>
 		<edge>
 			<first>114</first>
 			<second>13</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>182,29,142</color>
 		</edge>
 		<edge>
 			<first>54</first>
 			<second>13</second>
-			<weight>4</weight>
+			<weight>19</weight>
 			<color>12,129,24</color>
 		</edge>
 		<edge>
 			<first>114</first>
 			<second>54</second>
-			<weight>4</weight>
+			<weight>19</weight>
 			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>114</first>
 			<second>115</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>182,29,142</color>
 		</edge>
 		<edge>
 			<first>115</first>
 			<second>27</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>116,92,47</color>
 		</edge>
 		<edge>
@@ -2093,7 +2093,7 @@
 		<edge>
 			<first>83</first>
 			<second>38</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>133,212,243</color>
 		</edge>
 		<edge>
@@ -2129,25 +2129,25 @@
 		<edge>
 			<first>130</first>
 			<second>131</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>255,216,3</color>
 		</edge>
 		<edge>
 			<first>131</first>
 			<second>94</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>255,216,3</color>
 		</edge>
 		<edge>
 			<first>131</first>
 			<second>22</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>116,92,47</color>
 		</edge>
 		<edge>
 			<first>130</first>
 			<second>77</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>177,211,50</color>
 		</edge>
 		<edge>
@@ -2189,43 +2189,43 @@
 		<edge>
 			<first>29</first>
 			<second>138</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>239,30,37</color>
 		</edge>
 		<edge>
 			<first>138</first>
 			<second>139</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>239,30,37</color>
 		</edge>
 		<edge>
 			<first>139</first>
 			<second>140</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>239,30,37</color>
 		</edge>
 		<edge>
 			<first>140</first>
 			<second>141</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>239,30,37</color>
 		</edge>
 		<edge>
 			<first>141</first>
 			<second>142</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>239,30,37</color>
 		</edge>
 		<edge>
 			<first>142</first>
 			<second>143</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>239,30,37</color>
 		</edge>
 		<edge>
 			<first>143</first>
 			<second>24</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>239,30,37</color>
 		</edge>
 		<edge>
@@ -2261,25 +2261,25 @@
 		<edge>
 			<first>140</first>
 			<second>12</second>
-			<weight>5</weight>
+			<weight>19</weight>
 			<color>12,129,24</color>
 		</edge>
 		<edge>
 			<first>141</first>
 			<second>113</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>182,29,142</color>
 		</edge>
 		<edge>
 			<first>142</first>
 			<second>96</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>251,170,51</color>
 		</edge>
 		<edge>
 			<first>142</first>
 			<second>79</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>177,211,50</color>
 		</edge>
 		<edge>
@@ -2327,43 +2327,43 @@
 		<edge>
 			<first>156</first>
 			<second>157</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>2,82,162</color>
 		</edge>
 		<edge>
 			<first>157</first>
 			<second>158</second>
-			<weight>4</weight>
+			<weight>19</weight>
 			<color>2,82,162</color>
 		</edge>
 		<edge>
 			<first>158</first>
 			<second>28</second>
-			<weight>5</weight>
+			<weight>19</weight>
 			<color>2,82,162</color>
 		</edge>
 		<edge>
 			<first>28</first>
 			<second>159</second>
-			<weight>5</weight>
+			<weight>19</weight>
 			<color>2,82,162</color>
 		</edge>
 		<edge>
 			<first>159</first>
 			<second>160</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>2,82,162</color>
 		</edge>
 		<edge>
 			<first>160</first>
 			<second>161</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>2,82,162</color>
 		</edge>
 		<edge>
 			<first>161</first>
 			<second>23</second>
-			<weight>4</weight>
+			<weight>19</weight>
 			<color>2,82,162</color>
 		</edge>
 		<edge>
@@ -2411,31 +2411,37 @@
 		<edge>
 			<first>161</first>
 			<second>12</second>
-			<weight>4</weight>
+			<weight>19</weight>
 			<color>12,129,24</color>
+		</edge>
+		<edge>
+			<first>161</first>
+			<second>140</second>
+			<weight>19</weight>
+			<color>239,30,37</color>
 		</edge>
 		<edge>
 			<first>169</first>
 			<second>170</second>
-			<weight>1</weight>
+			<weight>19</weight>
 			<color>1,158,224</color>
 		</edge>
 		<edge>
 			<first>170</first>
 			<second>171</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>1,158,224</color>
 		</edge>
 		<edge>
 			<first>171</first>
 			<second>28</second>
-			<weight>8</weight>
+			<weight>19</weight>
 			<color>1,158,224</color>
 		</edge>
 		<edge>
 			<first>28</first>
 			<second>172</second>
-			<weight>7</weight>
+			<weight>19</weight>
 			<color>1,158,224</color>
 		</edge>
 		<edge>
@@ -2447,85 +2453,91 @@
 		<edge>
 			<first>28</first>
 			<second>174</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>1,158,224</color>
 		</edge>
 		<edge>
 			<first>174</first>
 			<second>175</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>1,158,224</color>
 		</edge>
 		<edge>
 			<first>175</first>
 			<second>176</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>1,158,224</color>
 		</edge>
 		<edge>
 			<first>176</first>
 			<second>177</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>1,158,224</color>
 		</edge>
 		<edge>
 			<first>177</first>
 			<second>178</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>1,158,224</color>
 		</edge>
 		<edge>
 			<first>178</first>
 			<second>179</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>1,158,224</color>
 		</edge>
 		<edge>
 			<first>180</first>
 			<second>158</second>
-			<weight>10</weight>
+			<weight>19</weight>
 			<color>255,216,3</color>
 		</edge>
 		<edge>
 			<first>180</first>
 			<second>172</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>255,216,3</color>
 		</edge>
 		<edge>
 			<first>169</first>
 			<second>139</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>239,30,37</color>
 		</edge>
 		<edge>
 			<first>169</first>
 			<second>160</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>2,82,162</color>
+		</edge>
+		<edge>
+			<first>169</first>
+			<second>53</second>
+			<weight>19</weight>
+			<color>172,173,175</color>
 		</edge>
 		<edge>
 			<first>53</first>
 			<second>139</second>
-			<weight>6</weight>
+			<weight>19</weight>
 			<color>239,30,37</color>
 		</edge>
 		<edge>
 			<first>53</first>
 			<second>160</second>
-			<weight>3</weight>
+			<weight>19</weight>
 			<color>2,82,162</color>
 		</edge>
 		<edge>
 			<first>160</first>
 			<second>139</second>
-			<weight>5</weight>
+			<weight>19</weight>
 			<color>239,30,37</color>
 		</edge>
 		<edge>
 			<first>156</first>
 			<second>179</second>
-			<weight>2</weight>
+			<weight>19</weight>
 			<color>1,158,224</color>
 		</edge>
 	</edges>

@@ -551,8 +551,17 @@ namespace SearchWay
                         select_way_manager.InsertSecond(clicked_vertex);
                         reset_button.Enabled = true;
                         graph[graph.GetPositionById(clicked_vertex.ID)].Select();
+                        
+                        double start_time_dijkstra = GetMicrotime();
                         DijkstraAlgorithm dijkstra = new DijkstraAlgorithm(ref graph);
-                        List<Vertex> short_way = dijkstra.GetShortRoute(select_way_manager.Pair.Item1.ID, select_way_manager.Pair.Item2.ID);
+                        List<Vertex> short_way_dijkstra = dijkstra.GetShortRoute(select_way_manager.Pair.Item1.ID, select_way_manager.Pair.Item2.ID);
+                        double difference_dijkstra = GetMicrotime() - start_time_dijkstra;
+
+                        double start_time_my = GetMicrotime();
+                        MyAlgorithm algorithm = new MyAlgorithm(ref graph);
+                        List<Vertex> short_way = algorithm.GetShortRoute(select_way_manager.Pair.Item1.ID, select_way_manager.Pair.Item2.ID);
+                        double difference_my = GetMicrotime() - start_time_my;
+
                         if (short_way.Count == 0) {
                             MessageBox.Show("Невозможно проложить путь от указанной вершины");
                             controller.ResetWay();
@@ -564,7 +573,13 @@ namespace SearchWay
                         }
                         controller.SelectWay(short_way);
                         controller.ApplyWay();
-                        break;
+                        
+                        controller.Refresh();
+                        MessageBox.Show(
+                            string.Format("Время выполнения алгоритма Дейкстры для данного пути: {0:f6} секунд\nВремя выполнения нашего алгоритма для данного пути: {1:f6} секунд", difference_dijkstra / 10000000, difference_my / 10000000),
+                            "Время выполнения работы"
+                        );
+                        return;
                 }
                 controller.Refresh();
             }
@@ -582,6 +597,13 @@ namespace SearchWay
             controller = new ViewGraphController(ref graph, ref pictureBox1);
             controller.Refresh();
             InsertedMetro = false;
+        }
+
+        public readonly DateTime UnixEpoch = new DateTime(1970, 1, 1);
+        public int GetMicrotime()
+        {
+            TimeSpan span = DateTime.UtcNow - UnixEpoch;
+            return (int)span.Ticks;
         }
     }
 }
