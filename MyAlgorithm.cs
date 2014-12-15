@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SearchWay
 {
-    class MyAlgorithm
+    class MyAlgorithm : IAlgorithm
     {
         private Graph graph;
         private const int INF = unchecked((int)10e9);
